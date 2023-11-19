@@ -23,3 +23,6 @@ Let's GO
 8. Collaborate with others and share your knowledge to grow as a programmer.       
 9. Remember that programming is a continuous process, so don’t be afraid to refactor and optimize your codes.        
     10. Finally, maintain a healthy work-life balance to prevent burnout and ensure your long-term success in the field.
+
+# 2023-11-19
+- "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and descriptive variable names, writing concise and well-structured functions, and commenting your code thoroughly. Remember, code is read more often than it is written, so make sure it's easy for others (and your future self) to read and understand."
