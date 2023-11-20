@@ -26,3 +26,10 @@ Let's GO
 
 # 2023-11-19
 - "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and descriptive variable names, writing concise and well-structured functions, and commenting your code thoroughly. Remember, code is read more often than it is written, so make sure it's easy for others (and your future self) to read and understand."
+
+# 2023-11-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques like the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize and prioritize the tasks effectively. 
+ 其次，提前计划。在开始编程之前，先为项目制定一个详细的计划，包括任务分配、时间表和预期结果。这将帮助你在项目进行过程中避免不必要的延误和错误。确保为每个任务分配合理的时间，并考虑到可能遇到的问题和解决方案。
+ 最后，保持组织。一个整洁、有组织的代码库对于提高编程效率和减少错误至关重要。使用版本控制系统（如Git）来跟踪代码更改，遵循一致的编码规范和风格，以及定期审查和重构代码。这些做法将使你的代码更容易维护和理解，从而提高整体项目质量。
