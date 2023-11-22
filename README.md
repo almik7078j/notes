@@ -39,3 +39,9 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 To become a successful programmer, you should also focus on building a solid foundation in core programming concepts, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will not only help you write better code but also enable you to adapt to new challenges and problems more efficiently. Additionally, learning to communicate effectively with colleagues and team members is an essential skill in any programming role. After all, software development is a collaborative effort that requires close coordination and clear communication. 
  总之，作为程序员，终身学习的重要性不言而喻。保持对新技术和趋势的关注，同时夯实核心编程概念的基础，将有助于你在编程领域取得成功。与同事和团队成员有效沟通也是不可或缺的技能。
+
+# 2023-11-22
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge base. This involves staying up-to-date with the latest technologies, tools, and programming languages. By embracing change and adapting to new developments, you can become a more valuable asset to your team or organization.
+
+Another important aspect of programming wise is problem-solving. Being able to identify and tackle problems effectively is a crucial skill in the world of coding. Break down complex issues into smaller, manageable tasks, use logical reasoning to determine the best solution, then implement and test your solution. Throughout this process, it' s crucial to stay patient and open-minded, as there may be more than one solution to a problem. 
+ 最终，编程的智慧在于与他人合作。在开发项目中，与团队成员保持良好的沟通和协作至关重要。学会倾听他人的意见，尊重他们的专业知识，并寻求他们的建议。通过分享知识、经验和想法，你可以在团队中建立信任和尊重，从而提高整个项目的成功率。
