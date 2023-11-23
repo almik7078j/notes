@@ -45,3 +45,8 @@ To become a successful programmer, you should also focus on building a solid fou
 
 Another important aspect of programming wise is problem-solving. Being able to identify and tackle problems effectively is a crucial skill in the world of coding. Break down complex issues into smaller, manageable tasks, use logical reasoning to determine the best solution, then implement and test your solution. Throughout this process, it' s crucial to stay patient and open-minded, as there may be more than one solution to a problem. 
  最终，编程的智慧在于与他人合作。在开发项目中，与团队成员保持良好的沟通和协作至关重要。学会倾听他人的意见，尊重他们的专业知识，并寻求他们的建议。通过分享知识、经验和想法，你可以在团队中建立信任和尊重，从而提高整个项目的成功率。
+
+# 2023-11-23
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online communities. By constantly updating your knowledge, you can better adapt to the ever-changing world of technology and become a valuable asset to your team or organization.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back, break it down into smaller components, then analyze each part to identify potential solutions. Use logical thinking and creativity to come up with innovative approaches, but always validate your ideas with practical testing. Practice debugging and refactoring code, which will improve your coding skills and make your code more efficient and maintainable. Finally, never be afraid to ask for help or to learn from others, because collaboration is the key to success in the world programming.
