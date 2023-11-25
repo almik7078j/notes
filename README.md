@@ -53,3 +53,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-11-24
 - "Keep it simple, stupid!"
+
+# 2023-11-25
+- "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and concise variable names, writing comments to explain complex logic, and organizing your code into modular and reusable functions. Remember, code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
