@@ -85,3 +85,6 @@ This quote highlights the ongoing challenge that programmers face in creating us
 4. Solve real problems: Try to apply what you' ve learned to real projects and see how it works in practice. It will give you an idea of how your skills can be used in real life.   
 5. Don't be afraid to ask for help: If you get stuck on a problem, don' t be ashamed to reach out to your colleagues, friends, online communities, forums, etc. for assistance. Remember, everyone was once a beginner, so don’ t think you’ re alone.    
 6. Keep a code journal: Document your progress, learnings, challenges, solutions, ideas, thoughts, anything that'll help keep track of your growth as an engineer. Writing about what've learned will make it easier to remember and reflect on your journey.
+
+# 2023-11-30
+- "Keep it simple, stupid!"
