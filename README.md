@@ -185,3 +185,6 @@ Second, planning ahead is crucial. Before starting a new project or undertaking 
 1. Prioritize tasks: Always start with the most important task and work your way down the list. By focusing on the tasks with highest impact, you can ensure that your time is well spent.
 2. Plan ahead: Don't wait until the last minute to start a project. Planning ahead will save you time and stress in the long run. Break projects into smaller tasks and set realistic deadlines for each one. 
 3. Stay organized: Use task management tools like Trello, Asana, or Todoist to keep track of your tasks. These tools will remind you of deadlines and help to organize your thoughts. Also, keep your workspace clean and organized, which will reduce the time you spend searching for files or lost notes.
+
+# 2023-12-21
+- "Keep it simple, stupid!"
