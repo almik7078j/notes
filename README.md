@@ -268,3 +268,6 @@ This quote emphasizes that over-optimizing code before understanding the actual 
 "In addition, 'Premature optimization is the root of all evil.' - Donald Knuth. This principle advises programmers against optimizing code too early in the development process without a clear understanding of where performance bottlenecks lie. Instead, focus first on writing correct, readable, and functional code, then optimize only when necessary, backed by profiling data." 
 
 Lastly, 'Code is read much more often than it is written.' This highlights the importance of writing code with readability in mind, as throughout its lifecycle, it will be read, debugged, maintained, and extended by many more people than those who originally wrote it."
+
+# 2024-01-07
+- "Keep it simple, stupid!"
