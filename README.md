@@ -271,3 +271,6 @@ Lastly, 'Code is read much more often than it is written.' This highlights the i
 
 # 2024-01-07
 - "Keep it simple, stupid!"
+
+# 2024-01-08
+- "Keep it simple, stupid!"
