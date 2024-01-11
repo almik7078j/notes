@@ -280,3 +280,10 @@ Lastly, 'Code is read much more often than it is written.' This highlights the i
 
 # 2024-01-10
 - "Keep it simple, stupid!"
+
+# 2024-01-11
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Using a planning tool like Trello or Asana can help keep you organized and on track. Planning ahead will also help prevent last-minute panic and stress, as you will know exactly what needs to happen and when. 
+ <p>
+Finally, stay organised and disciplined in the way you work and manage your time. Use tools like time tracking apps or pomodoro techniques to help manage and keep track of your working hours. Make sure to take breaks and switch tasks regularly to avoid getting burnt out or stuck in a rut. Remember, good time management and organisation are the keys to success in any field, including programming.
