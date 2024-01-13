@@ -294,3 +294,13 @@ Finally, stay organised and disciplined in the way you work and manage your time
 Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back and analyze the issue from different perspectives. Break down the problem into smaller, more manageable tasks, then use logical thinking and creativity to come up with solutions. Practice debugging and refactoring code, which will improve your problem solving skills and make you a better programmer. 
  学习编程的智慧是成为终身学习者，始终跟上最新的技术和编程语言。这包括阅读博客、文章和书籍，参加研讨会和会议，以及参与在线论坛和社区。通过不断更新你的知识和技能，你将成为任何团队或组织的宝贵资产。
 另一个编程智慧的方面是解决问题。面对具有挑战性的问题时，退一步，从不同的角度分析问题。将问题分解成更小、更易于管理的任务，然后使用逻辑思考和创造力来提出解决方案。练习调试和重构代码，这将提高你的问题解决能力，使你成为更好的程序员。
+
+# 2024-01-13
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines not only promote clean, maintainable, and scalable code but also enhance collaboration and reduce complexity in software development. Remember, writing code that's easy to understand and modify tomorrow is often more valuable than code that works today but becomes a burden later." 
+
+In brief, SOLID principles:
+1. **Single Responsibility**: A class should have one, and only one, reason to change.
+2. **Open-Closed**: Software entities (classes, modules, functions) should be open for extension but closed for modification.
+3. **Liskov Substitution**: Derived classes must be substitutable for their base classes.
+4. **Interface Segregation**: Clients should not be forced to depend on methods they do not use; instead, many specific interfaces are better than one general interface.
+5. **Dependency Inversion**: Depend upon abstractions, not concretions; high-level modules should not depend on low-level modules; both should depend on abstractions.
